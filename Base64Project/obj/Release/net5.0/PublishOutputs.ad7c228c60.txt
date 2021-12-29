@@ -1,0 +1,12 @@
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Base64Project.exe
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Base64Project.dll
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Base64Project.deps.json
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Base64Project.runtimeconfig.json
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Base64Project.pdb
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Base64Project\Base64Project\Base64Project\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
